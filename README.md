@@ -1,3 +1,4 @@
+![alt text](http://url/to/img.png)
 - 👋 Hi, I’m @ShwePhueHmone
 - 👀 I’m interested in ...web development
 - 🌱 I’m currently learning new languages & experiences from seniors... 
