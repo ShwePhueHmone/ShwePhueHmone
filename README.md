@@ -1,4 +1,4 @@
-![avatar]([http://url/to/img.png](https://github.com/ShwePhueHmone/ShwePhueHmone/blob/main/avatar.jpg))
+![avatar](https://github.com/ShwePhueHmone/ShwePhueHmone/blob/main/avatar.jpg)
 - 👋 Hi, I’m @ShwePhueHmone
 - 👀 I’m interested in ...web development
 - 🌱 I’m currently learning new languages & experiences from seniors... 
