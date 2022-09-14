@@ -1,9 +1,4 @@
 ![avatar](https://github.com/ShwePhueHmone/ShwePhueHmone/blob/main/avatar.jpg)
-- 👋 Hi, I’m @ShwePhueHmone
-- 👀 I’m interested in ...web development
-- 🌱 I’m currently learning new languages & experiences from seniors... 
-- 💞️ I’m working as a Junior Developer in Seattle Consulting Myanmar...
-- 📫 How to reach me ...
 
 ### <div align="center">I'm Shwe Phue Hmone, a Web developer 👨‍💻 working since 2022 🚀</div>  
   
@@ -12,7 +7,8 @@
   
 
 - 🌱 I’m currently learning Node JS and React  
-  
+
+- 👀 I’m interested in ...web development
 
 - ❓ Ask me about anything related to Laravel and related technologies  
   
