@@ -10,10 +10,8 @@
 
 - 👀 I’m interested in ...web development
 
-- ❓ Ask me about anything related to Laravel and related technologies  
+- ❓ Ask me about anything related to Laravel/Vue and related technologies  
   
-
-- ⚡😜  
   
 
 <br/>  
