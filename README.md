@@ -1,4 +1,4 @@
-![avatar](https://github.com/ShwePhueHmone/ShwePhueHmone/blob/main/avatar.jpg)
+![avatar](https://github.com/ShwePhueHmone/ShwePhueHmone/blob/main/webdeveloper.jpg)
 
 ### <div align="center">I'm Shwe Phue Hmone, a Web developer 👨‍💻 working since 2022 🚀</div>  
   
