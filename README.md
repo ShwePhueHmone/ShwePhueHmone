@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on Seattle Consulting Myanmar as a Junior Web Developer  
   
 
-- 🌱 I’m currently learning Node JS and React  
+- 🌱 I’m currently learning Vue JS  
 
 - 👀 I’m interested in ...web development
 
